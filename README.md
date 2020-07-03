@@ -1,4 +1,4 @@
-# BlurHash for Java
+# BlurHash for ActionScript 3.0.
 is a [BlurHash](https://blurha.sh) encoder/decoder implementation in ActionScript 3.0.
 
 Based on https://blurha.sh/
