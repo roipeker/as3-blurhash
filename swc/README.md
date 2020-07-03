@@ -1,0 +1,1 @@
+You can add the swc to your project.
